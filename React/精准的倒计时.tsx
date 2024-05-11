@@ -2,7 +2,7 @@
   * @description 精准的倒计时
   * @background 由于浏览器的优化策略（减少在非活动状态的浏览器tab页的内存占用）
   * 会出现在非活动状态的浏览器tab页中，导致倒计时的时间不准确，比如实际过了5分钟，可能倒计时显示才过了2分钟
-  * 为解决这个问题，考虑了使用visibilitychange事件，实现了倒计时的准确性
+  * 为解决这个问题，考虑了使用visibilitychange事件，在tab切换时计算倒计时的时间，实现了倒计时的准确性
   * @expand 扩展：在MQTT或者WebSocket的长连接维持的心跳机制中，也可能因此导致断连
   * 可以使用visibilitychange事件，或者web-worker，进行解决处理
  */
