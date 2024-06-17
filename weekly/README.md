@@ -10,3 +10,7 @@
 - 古茗前端团队(<https://juejin.cn/user/3233040624266695>)
 - 网易云音乐技术团队(<https://www.zhihu.com/column/musicfe>)
 - 一些技术分享(<https://daily-blog.chlinlearn.top/blogs/1>)
+
+### Advanced React Book
+
+- Developer Way(<https://www.developerway.com/>)
