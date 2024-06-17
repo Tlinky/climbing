@@ -1,5 +1,7 @@
 # 技术周刊
 
+不一定很多，但足够受用
+
 ## 周刊链接
 
 - 阮一峰-科技爱好者周刊(<https://www.ruanyifeng.com/blog/archives.html>)
